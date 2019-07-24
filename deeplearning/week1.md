@@ -1,3 +1,0 @@
-#### deeplearning.ai
-
-My Work.
